@@ -44,12 +44,9 @@ class Practise
 
 //Java program for linear search(Approach 02) along with its theory.
 
-
-// Java program for linear search
-
 import java.io.*;
 
-class GFG
+class Practise
 {
 
 	public static void search(int arr[], int search_Element)
